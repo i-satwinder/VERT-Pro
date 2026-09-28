@@ -1,7 +1,7 @@
 services:
   vert-pro:
     container_name: vert-pro
-    image: ghcr.io/vert-sh/vert:latest
+    image: ghcr.io/i-satwinder/vert-pro:latest
     build:
       context: .
       args:

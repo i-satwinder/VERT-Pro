@@ -8,6 +8,7 @@ This file covers frequently asked questions.
 - [What about analytics?](#what-about-analytics)
 - [What libraries does VERT use?](#what-libraries-does-vert-use)
 - [Is it possible to fully prevent VERT from making requests to external services?](#is-it-possible-to-fully-prevent-vert-from-making-requests-to-external-services)
+- [What PDF tools are available?](#what-pdf-tools-are-available)
 
 ### Why VERT?
 
@@ -34,4 +35,15 @@ Yes! If you would prefer VERT to not make any requests to external services (vid
 The only external request VERT will make with this option is to `cdn.jsdelivr.net`, which is used to download FFmpeg's WebAssembly build.
 
 ### What libraries does VERT use?
-VERT uses FFmpeg for audio and video conversion, imagemagick for images and Pandoc for documents. A big thanks to them for maintaining such excellent libraries for so many years.
+
+VERT uses FFmpeg for audio and video conversion, imagemagick for images, Pandoc for documents, and [pdf-lib](https://pdf-lib.js.org/) for PDF manipulation. A big thanks to them for maintaining such excellent libraries for so many years.
+
+### What PDF tools are available?
+
+VERT includes built-in PDF utilities on the `/tools` page:
+
+- **Merge** — Combine multiple PDFs into a single file with reordering support.
+- **Split** — Extract specific page ranges into separate PDF files.
+- **Compress** — Reduce PDF file size by re-saving with object streams, with an option to strip metadata.
+
+All PDF operations run entirely on-device using [pdf-lib](https://pdf-lib.js.org/) — no files are uploaded to any server. See [Getting Started](./GETTING_STARTED.md#pdf-tools) for more details.
