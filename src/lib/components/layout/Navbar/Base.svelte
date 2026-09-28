@@ -112,7 +112,7 @@
 	{@const Icon = item.icon}
 	<a
 		bind:this={links[index]}
-		href={item.url}
+		href="{base}{item.url}"
 		aria-label={item.name}
 		class={clsx(
 			"min-w-16 md:min-w-32 h-full relative z-10 rounded-xl flex flex-1 items-center justify-center gap-3 overflow-hidden",

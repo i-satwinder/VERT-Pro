@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { GITHUB_URL_VERT, DISCORD_URL } from "$lib/util/consts";
 	import { m } from "$lib/paraglide/messages";
+	import { base } from "$app/paths";
 
 	const commitHash =
 		__COMMIT_HASH__ && __COMMIT_HASH__ !== "unknown"
@@ -39,7 +40,7 @@
 		<p>•</p>
 		<a
 			class="hover:underline font-normal"
-			href="/privacy/"
+			href="{base}/privacy/"
 		>
 			{m["footer.privacy_policy"]()}
 		</a>
