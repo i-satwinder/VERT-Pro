@@ -222,31 +222,11 @@
 			"title": "Why VERT Pro?",
 			"description": "<b>File converters have always disappointed us.</b> They're ugly, riddled with ads, and most importantly; slow. We decided to solve this problem once and for all by making an alternative that solves all those problems, and more.<br/><br/>All non-video files are converted completely on-device; this means that there's no delay between sending and receiving the files from a server, and we never get to snoop on the files you convert.<br/><br/>Video files get uploaded to our lightning-fast RTX 4000 Ada server. Your videos stay on there for an hour if you do not convert them. If you do convert the file, the video will stay on the server for an hour, or until it is downloaded. The file will then be deleted from our server."
 		},
-		"sponsors": {
-			"title": "Sponsors",
-			"description": "Want to support us? Contact a developer in the [discord_link]Discord[/discord_link] server, or send an email to",
-			"email_copied": "Email copied to clipboard!"
-		},
 		"resources": {
 			"title": "Resources",
 			"discord": "Discord",
 			"source": "Source",
 			"email": "Email"
-		},
-		"donate": {
-			"title": "Donate to VERT Pro",
-			"description": "With your support, we can keep maintaining and improving VERT Pro.",
-			"one_time": "One-time",
-			"monthly": "Monthly",
-			"custom": "Custom",
-			"pay_now": "Pay now",
-			"donate_amount": "Donate ${amount} USD",
-			"thank_you": "Thank you for your donation!",
-			"payment_failed": "Payment failed: {message}{period} You have not been charged.",
-			"donation_error": "An error occurred while processing your donation. Please try again later.",
-			"payment_error": "Error fetching payment details. Please try again later.",
-			"donation_notice_official": "Your donations here go to the official VERT Pro instance (vert.sh), and helps to support the development of the project.",
-			"donation_notice_unofficial": "Your donations here go to the operator of this VERT Pro instance. If you wish to support the official VERT Pro developers, please visit [official_link]vert.sh[/official_link] instead."
 		},
 		"credits": {
 			"title": "Credits",
@@ -286,15 +266,11 @@
 		"title": "Privacy Policy",
 		"summary": {
 			"title": "Summary",
-			"description": "VERT Pro's privacy policy is very simple: we do not collect or store any data on you at all. We don't use cookies or trackers, analytics are completely private, and all conversions (except videos) happen locally on your browser. Videos are deleted after being downloaded, or an hour, unless explicitly given permission by you to be stored; it will only be used for the purpose of troubleshooting. VERT Pro self-hosts a Coolify instance for hosting the website and vertd (for video conversion), and a Plausible instance for completely anonymous and aggregated analytics. We use Stripe to process donations, which may collect some data used for fraud prevention.<br/><br/>Note this may only apply to the official VERT Pro instance at [vert_link]vert.sh[/vert_link]; third-party instances may handle your data differently."
+			"description": "VERT Pro's privacy policy is very simple: we do not collect or store any data on you at all. We don't use cookies or trackers, analytics are completely private, and all conversions (except videos) happen locally on your browser. Videos are deleted after being downloaded, or an hour, unless explicitly given permission by you to be stored; it will only be used for the purpose of troubleshooting. VERT Pro self-hosts a Coolify instance for hosting the website and vertd (for video conversion), and a Plausible instance for completely anonymous and aggregated analytics.<br/><br/>Note this may only apply to the official VERT Pro instance at [vert_link]vert.sh[/vert_link]; third-party instances may handle your data differently."
 		},
 		"conversions": {
 			"title": "Conversions",
 			"description": "Most conversions (images, documents, audio) happen entirely locally on your device using WebAssembly versions of the relevant tools (e.g. ImageMagick, Pandoc, FFmpeg). This means your files never leave your device and we will never have access to them.<br/><br/>Video conversions are performed on our servers because they require more processing power and cannot be done very quickly on the browser yet. Videos you convert with VERT Pro are deleted after being downloaded, or after one hour, unless you explicitly give permission for us to store them longer purely for troubleshooting purposes."
-		},
-		"donations": {
-			"title": "Donations",
-			"description": "We use Stripe on the [about_link]about[/about_link] page to collect donations. Stripe may collect certain information about the payment and device for fraud prevention as described in [stripe_link]their documentation on advanced fraud detection[/stripe_link]. External network requests to Stripe are deferred, and are only made after you click the button to pay."
 		},
 		"conversion_errors": {
 			"title": "Conversion Errors",

@@ -186,29 +186,11 @@
 			"title": "Perché VERT Pro?",
 			"description": "<b>I convertitori di file ci hanno sempre deluso.</b> Sono brutti, pieni di pubblicità e, soprattutto, lenti. Abbiamo deciso di risolvere questo problema una volta per tutte creando un'alternativa che risolve tutti questi problemi e non solo.<br/><br/>Tutti i file non video vengono convertiti completamente sul dispositivo; questo significa che non ci sono ritardi tra l'invio e la ricezione dei file da un server e non possiamo mai spiare i file che converti.<br/><br/>I file video vengono caricati sul nostro velocissimo server RTX 4000 Ada. I tuoi video rimangono lì per un'ora se non li converti. Se converti il file, il video rimarrà sul server per un'ora o fino a quando non viene scaricato. Il file verrà quindi eliminato dal nostro server."
 		},
-		"sponsors": {
-			"title": "Sponsor",
-			"description": "Vuoi sostenerci? Contatta uno sviluppatore nel server [discord_link]Discord[/discord_link] o invia un'e-mail a",
-			"email_copied": "E-mail copiata negli appunti!"
-		},
 		"resources": {
 			"title": "Risorse",
 			"discord": "Discord",
 			"source": "Sorgente",
 			"email": "E-mail"
-		},
-		"donate": {
-			"title": "Fai una donazione a VERT Pro",
-			"description": "Con il tuo supporto, possiamo continuare a mantenere e migliorare VERT Pro.",
-			"one_time": "Una tantum",
-			"monthly": "Mensile",
-			"custom": "Personalizzato",
-			"pay_now": "Paga ora",
-			"donate_amount": "Dona ${amount} USD",
-			"thank_you": "Grazie per la tua donazione!",
-			"payment_failed": "Pagamento fallito: {message}{period} Non ti è stato addebitato nulla.",
-			"donation_error": "Si è verificato un errore durante l'elaborazione della tua donazione. Riprova più tardi.",
-			"payment_error": "Errore nel recupero dei dettagli di pagamento. Riprova più tardi."
 		},
 		"credits": {
 			"title": "Crediti",

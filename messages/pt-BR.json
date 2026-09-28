@@ -222,31 +222,11 @@
 			"title": "Por que usar o VERT Pro?",
 			"description": "<b>Os conversores de arquivos sempre nos decepcionaram.</b> Eles são feios, cheios de anúncios e, o mais importante, lentos. Decidimos resolver esse problema de uma vez por todas, criando uma alternativa que resolve todos esses problemas e mais.<br/><br/>Todos os arquivos que não são de vídeo são convertidos completamente no dispositivo; isso significa que não há atraso entre o envio e o recebimento dos arquivos de um servidor, e nunca bisbilhotamos os arquivos que você converte.<br/><br/>Os arquivos de vídeo são enviados para o nosso servidor RTX 4000 Ada super rápido. Seus vídeos permanecem lá por uma hora se você não os converter. Se você converter o arquivo, o vídeo permanecerá no servidor por uma hora ou até ser baixado. O arquivo será então excluído do nosso servidor."
 		},
-		"sponsors": {
-			"title": "Patrocinadores",
-			"description": "Quer nos apoiar? Entre em contato com um desenvolvedor no servidor [discord_link]Discord[/discord_link], ou envie um email para",
-			"email_copied": "Email copiado para a área de transferência!"
-		},
 		"resources": {
 			"title": "Recursos",
 			"discord": "Discord",
 			"source": "Código fonte",
 			"email": "Email"
-		},
-		"donate": {
-			"title": "Doar para o VERT Pro",
-			"description": "Com seu apoio, podemos continuar mantendo e melhorando o VERT Pro.",
-			"one_time": "Única vez",
-			"monthly": "Mensal",
-			"custom": "Personalizado",
-			"pay_now": "Pagar agora",
-			"donate_amount": "Doar ${amount} USD",
-			"thank_you": "Obrigado pela sua doação!",
-			"payment_failed": "Falha no pagamento: {message}{period} Você não foi cobrado.",
-			"donation_error": "Ocorreu um erro ao processar sua doação. Por favor, tente novamente mais tarde.",
-			"payment_error": "Erro ao buscar detalhes do pagamento. Por favor, tente novamente mais tarde.",
-			"donation_notice_official": "Suas doações aqui vão para a instância oficial do VERT Pro (vert.sh) e ajudam a apoiar o desenvolvimento do projeto.",
-			"donation_notice_unofficial": "Suas doações aqui vão para o operador desta instância do VERT Pro. Se você deseja apoiar os desenvolvedores oficiais do VERT Pro, por favor visite [official_link]vert.sh[/official_link] em vez disso."
 		},
 		"credits": {
 			"title": "Créditos",
@@ -286,15 +266,11 @@
 		"title": "Política de Privacidade",
 		"summary": {
 			"title": "Resumo",
-			"description": "A política de privacidade do VERT Pro é muito simples: não coletamos nem armazenamos nenhum dado sobre você. Não usamos cookies ou rastreadores, a análise é completamente privada e todas as conversões (exceto vídeos) acontecem localmente no seu navegador. Os vídeos são excluídos após serem baixados ou após uma hora, a menos que você dê permissão explícita para armazená-los; eles serão usados apenas para fins de solução de problemas. O VERT Pro hospeda uma instância Coolify para hospedar o site e o vertd (para conversão de vídeo), e uma instância Plausible para análises completamente anônimas e agregadas. Usamos Stripe para processar doações, que pode coletar alguns dados usados para prevenção de fraudes.<br/><br/>Observe que isso pode se aplicar apenas à instância oficial do VERT Pro em [vert_link]vert.sh[/vert_link]; instâncias de terceiros podem lidar com seus dados de maneira diferente."
+			"description": "A política de privacidade do VERT Pro é muito simples: não coletamos nem armazenamos nenhum dado sobre você. Não usamos cookies ou rastreadores, a análise é completamente privada e todas as conversões (exceto vídeos) acontecem localmente no seu navegador. Os vídeos são excluídos após serem baixados ou após uma hora, a menos que você dê permissão explícita para armazená-los; eles serão usados apenas para fins de solução de problemas. O VERT Pro hospeda uma instância Coolify para hospedar o site e o vertd (para conversão de vídeo), e uma instância Plausible para análises completamente anônimas e agregadas.<br/><br/>Observe que isso pode se aplicar apenas à instância oficial do VERT Pro em [vert_link]vert.sh[/vert_link]; instâncias de terceiros podem lidar com seus dados de maneira diferente."
 		},
 		"conversions": {
 			"title": "Conversões",
 			"description": "A maioria das conversões (imagens, documentos, áudio) acontece inteiramente localmente no seu dispositivo usando versões WebAssembly das ferramentas relevantes (por exemplo, ImageMagick, Pandoc, FFmpeg). Isso significa que seus arquivos nunca saem do seu dispositivo e nunca teremos acesso a eles.<br/><br/>As conversões de vídeo são realizadas em nossos servidores porque exigem mais poder de processamento e ainda não podem ser feitas muito rapidamente no navegador. Os vídeos que você converte com o VERT Pro são excluídos após serem baixados ou após uma hora, a menos que você dê permissão explícita para armazená-los por mais tempo, apenas para fins de solução de problemas."
-		},
-		"donations": {
-			"title": "Doações",
-			"description": "Usamos Stripe na página [about_link]sobre[/about_link] para coletar doações. O Stripe pode coletar certas informações sobre o pagamento e o dispositivo para prevenção de fraudes, conforme descrito na [stripe_link]documentação deles sobre detecção avançada de fraudes[/stripe_link]. As solicitações de rede externas para o Stripe são adiadas e só são feitas depois que você clica no botão para pagar."
 		},
 		"conversion_errors": {
 			"title": "Erros de Conversão",

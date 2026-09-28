@@ -180,29 +180,11 @@
 			"title": "なぜVERT Pro？",
 			"description": "<b>従来のファイルコンバーターにはいつもがっかりしてきました。</b>見た目が悪く、広告だらけで、そして何より遅い。私たちはそれらの問題をすべて解決するためにVERT Proを作りました。<br/><br/>動画以外のファイルは完全にデバイス上で変換されるため、サーバーとのやり取りによる遅延もなく、あなたのファイルを覗き見ることもありません。<br/><br/>動画は超高速RTX 4000 Adaサーバーで処理され、変換しなかった場合は1時間以内に削除されます。変換された動画も1時間またはダウンロード完了後に削除されます。"
 		},
-		"sponsors": {
-			"title": "スポンサー",
-			"description": "私たちを支援したい場合は、[discord_link]Discord[/discord_link]サーバーで開発者に連絡するか、以下のメールアドレスまでご連絡ください。",
-			"email_copied": "メールアドレスをコピーしました！"
-		},
 		"resources": {
 			"title": "リソース",
 			"discord": "Discord",
 			"source": "ソース",
 			"email": "メール"
-		},
-		"donate": {
-			"title": "VERT Proを支援する",
-			"description": "あなたの支援でVERT Proの維持と改善を続けられます。",
-			"one_time": "一度きり",
-			"monthly": "毎月",
-			"custom": "カスタム",
-			"pay_now": "今すぐ支払う",
-			"donate_amount": "${amount} USDを寄付",
-			"thank_you": "ご支援ありがとうございます！",
-			"payment_failed": "支払いに失敗しました: {message}{period} 請求は行われていません。",
-			"donation_error": "寄付の処理中にエラーが発生しました。後でもう一度お試しください。",
-			"payment_error": "支払い情報の取得中にエラーが発生しました。後でもう一度お試しください。"
 		},
 		"credits": {
 			"title": "クレジット",

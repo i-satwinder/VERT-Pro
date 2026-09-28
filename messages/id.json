@@ -187,29 +187,11 @@
 			"title": "Mengapa VERT Pro?",
 			"description": "<b>Konverter berkas selalu mengecewakan kami.</b> Mereka jelek, penuh iklan, dan yang paling penting; lambat. Kami memutuskan untuk menyelesaikan masalah ini sekali untuk selamanya dengan membuat alternatif yang memperbaiki semua masalah itu, dan lebih banyak lagi.<br/><br/>Semua berkas non-video dikonversi sepenuhnya di perangkat; artinya tidak ada jeda antara pengiriman dan penerimaan berkas, dan kami tidak pernah melihat berkas yang kamu konversi.<br/><br/>File video diunggah ke server RTX 4000 Ada super cepat kami. Videomu akan tetap di sana selama satu jam jika tidak dikonversi. Jika dikonversi, video akan bertahan satu jam atau hingga diunduh. Setelah itu, berkas akan dihapus dari server kami."
 		},
-		"sponsors": {
-			"title": "Sponsor",
-			"description": "Ingin mendukung kami? Hubungi pengembang di server [discord_link]Discord[/discord_link], atau kirim email ke",
-			"email_copied": "Email disalin ke clipboard!"
-		},
 		"resources": {
 			"title": "Sumber daya",
 			"discord": "Discord",
 			"source": "Sumber",
 			"email": "Email"
-		},
-		"donate": {
-			"title": "Donasi untuk VERT Pro",
-			"description": "Dengan dukunganmu, kami dapat terus memelihara dan meningkatkan VERT Pro.",
-			"one_time": "Sekali",
-			"monthly": "Bulanan",
-			"custom": "Kustom",
-			"pay_now": "Bayar sekarang",
-			"donate_amount": "Donasi ${amount} USD",
-			"thank_you": "Terima kasih atas donasimu!",
-			"payment_failed": "Pembayaran gagal: {message}{period} Kamu tidak dikenai biaya.",
-			"donation_error": "Terjadi kesalahan saat memproses donasi. Coba lagi nanti.",
-			"payment_error": "Kesalahan mengambil detail pembayaran. Coba lagi nanti."
 		},
 		"credits": {
 			"title": "Kredit",

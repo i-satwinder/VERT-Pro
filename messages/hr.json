@@ -160,29 +160,11 @@
 			"title": "Zašto baš VERT Pro?",
 			"description": "<b>Pretvarači datoteka su nas uvijek razočarali.</b> Izuzetno su ružni, prepuni reklama, i najvažnije; spori! Odlučili smo riješiti problem jednom i zauvijek praveći alternativu koja riješava sve ove probleme, i više.<br/><br/>Sve datoteke koji nisu videozapisi su pretvoreni direktno na Vašem uređaju; To znači da nema nikakve stanke između slanja i primanja datoteka sa servera, i nikada ne dobijemo šansu gurati nos u vaše datoteke koje pretvarate. <br/><br/>Videozapisi se prenose na naše izuzetno brze RTX 4000 Ada servere. Vaši videozapisi tamo ostano sat vremena ako ih ne pretvorite. Ako ih i pretvorite, videozapis će ostati na serveru na sat vremena, ili dok se ne preuzme. Datoteka će zatim biti obrisana sa našeg servera."
 		},
-		"sponsors": {
-			"title": "Sponzori",
-			"description": "Želite li nas podržati? Kontaktirajte developera na [discord_link]Discord[/discord_link] serveru, ili pošaljite mail na",
-			"email_copied": "Email kopiran u međuspremnik!"
-		},
 		"resources": {
 			"title": "Resursi",
 			"discord": "Discord",
 			"source": "Source kod",
 			"email": "Email"
-		},
-		"donate": {
-			"title": "Donirajte nam",
-			"description": "Sa vašom podrškom mi možemo nastaviti održavati i poboljšavati VERT Pro.",
-			"one_time": "Jednokratno",
-			"monthly": "Mjesečno",
-			"custom": "Prilagođeno",
-			"pay_now": "Plati sada",
-			"donate_amount": "Doniraj ${amount} USD",
-			"thank_you": "Hvala Vam na Vašoj donaciji!!",
-			"payment_failed": "Plaćanje neuspjelo: {message}{period} Niste naplaćeni.",
-			"donation_error": "Dogodila se pogreška pri obradi donacije. Molimo pokušajte kasnije.",
-			"payment_error": "Dogodila se pogreška pri prihvaćanju detalja o naplati. Molimo pokušajte kasnije."
 		},
 		"credits": {
 			"title": "Zasluge",

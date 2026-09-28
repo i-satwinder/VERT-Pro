@@ -211,29 +211,11 @@
 			"title": "為什麼選擇 VERT Pro？",
 			"description": "<b>檔案轉換器一直讓我們失望。</b>它們很醜陋，充滿廣告，最重要的是；很慢。我們決定透過製作一個解決所有這些問題的替代方案，一勞永逸地解決這個問題。<br/><br/>所有非影片檔案都完全在裝置上轉換；這意味著不需要在伺服器之間傳送和接收檔案的延遲，而且我們永遠不會窺探你轉換的檔案。<br/><br/>影片檔案會上傳到我們超快速的 RTX 4000 Ada 伺服器。如果你不轉換影片，它們會在伺服器上保留一小時。如果你轉換檔案，影片將在伺服器上保留一小時，或直到下載完成。然後檔案將從我們的伺服器中刪除。"
 		},
-		"sponsors": {
-			"title": "贊助商",
-			"description": "想支援我們嗎？請在[discord_link]Discord[/discord_link]伺服器上聯絡開發者，或傳送電子郵件至",
-			"email_copied": "電子郵件已複製到剪貼簿！"
-		},
 		"resources": {
 			"title": "資源",
 			"discord": "Discord",
 			"source": "原始碼",
 			"email": "電子郵件"
-		},
-		"donate": {
-			"title": "捐贈給 VERT Pro",
-			"description": "有了你的支援，我們可以繼續維護和改進 VERT Pro。",
-			"one_time": "一次性",
-			"monthly": "每月",
-			"custom": "自訂",
-			"pay_now": "立即付款",
-			"donate_amount": "捐贈 ${amount} 美元",
-			"thank_you": "感謝你的捐贈！",
-			"payment_failed": "付款失敗：{message}{period}你未被收費。",
-			"donation_error": "處理捐贈時出錯。請稍後重試。",
-			"payment_error": "取得付款詳情時出錯。請稍後重試。"
 		},
 		"credits": {
 			"title": "致謝",

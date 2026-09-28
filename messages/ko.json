@@ -202,29 +202,11 @@
 			"title": "왜 VERT Pro인가?",
 			"description": "<b>파일 변환기들은 항상 저희 기대치에 충족하지 못했습니다.</b> 못생긴 UI에, 광고로 떡칠하고, 그리고 가장 중요한 것은 느리다는겁니다. 그래서 저희가 이 모든 문제를 한 번에 해결할 대안을 직접 만들기로 했습니다. 기존 변환기들의 단점을 해결한 것은 물론이고, 그 이상의 기능도 제공하죠<br/><br/>동영상을 제외한 모든 파일은 사용자의 기기에서 바로 변환됩니다. 즉, 서버로 파일을 보냈다가 다시 받는 시간이 전혀 필요 없고, 저희가 여러분의 파일을 엿볼 일도 전혀 없다는 뜻입니다.<br/><br/>예외적으로 동영상 파일은 초고속 RTX 4000 Ada 서버로 업로드됩니다. 변환하지 않으면 영상은 서버에 1시간 동안 유지됩니다. 변환한 경우에도 영상은 서버에 최대 1시간 또는 다운로드될 때까지 보관되며, 그 후 서버에서 삭제됩니다."
 		},
-		"sponsors": {
-			"title": "후원자",
-			"description": "지원하고 싶으신가요? [discord_link]Discord[/discord_link] 서버의 개발자에게 문의하시거나, 다음 이메일로 보내주세요:",
-			"email_copied": "클립보드에 이메일 주소가 복사되었습니다!"
-		},
 		"resources": {
 			"title": "Resources",
 			"discord": "Discord",
 			"source": "소스 코드",
 			"email": "이메일"
-		},
-		"donate": {
-			"title": "VERT Pro에 기부하기",
-			"description": "여러분의 후원으로 VERT Pro를 지속적으로 유지하고 개발할 수 있습니다.",
-			"one_time": "일회성",
-			"monthly": "매월",
-			"custom": "사용자 지정",
-			"pay_now": "지금 결제하기",
-			"donate_amount": "${amount} USD 후원하기",
-			"thank_you": "후원해주셔서 감사합니다!",
-			"payment_failed": "결제 실패: {message}{period} 요금이 청구되지 않았습니다.",
-			"donation_error": "결제 처리 중 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
-			"payment_error": "결제 세부정보를 가져오는 중 오류가 발생했습니다. 나중에 다시 시도해 주세요."
 		},
 		"credits": {
 			"title": "Credits",

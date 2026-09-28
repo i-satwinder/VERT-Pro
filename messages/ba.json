@@ -222,31 +222,11 @@
       "title": "Zašto VERT Pro?",
       "description": "<b>Konverteri datoteka su nas uvijek razočaravali.</b> Ružni su, puni reklama i, najvažnije, spori. Odlučili smo to riješiti jednom zauvijek.<br/><br/>Sve ne-video datoteke se obrađuju lokalno, što znači da nema slanja datoteka na server — i mi nikad ne vidimo vaše podatke.<br/><br/>Video se otprema na naš brzi RTX 4000 Ada server. Vaši video snimci ostaju tamo sat vremena ako ih ne konvertujete. Ako ih konvertujete, ostaju sat ili dok ih preuzmete, nakon čega se brišu."
     },
-    "sponsors": {
-      "title": "Sponzori",
-      "description": "Želite nas podržati? Kontaktirajte nekog od developera na [discord_link]Discordu[/discord_link] ili pošaljite email na",
-      "email_copied": "Email kopiran!"
-    },
     "resources": {
       "title": "Resursi",
       "discord": "Discord",
       "source": "Izvor",
       "email": "Email"
-    },
-    "donate": {
-      "title": "Donirajte VERT Pro-u",
-      "description": "Vaša podrška pomaže da nastavimo razvijati i unapređivati VERT Pro.",
-      "one_time": "Jednokratno",
-      "monthly": "Mjesečno",
-      "custom": "Prilagođeno",
-      "pay_now": "Plati sada",
-      "donate_amount": "Doniraj ${amount} USD",
-      "thank_you": "Hvala na donaciji!",
-      "payment_failed": "Plaćanje nije uspjelo: {message}{period}. Novac nije skinut s vašeg računa.",
-      "donation_error": "Došlo je do greške pri obradi donacije. Pokušajte ponovo kasnije.",
-      "payment_error": "Greška pri dohvaćanju podataka o plaćanju. Pokušajte ponovo.",
-      "donation_notice_official": "Donacije ovdje idu za zvaničnu VERT Pro instancu (vert.sh) i pomažu razvoj projekta.",
-      "donation_notice_unofficial": "Donacije ovdje idu operateru ove VERT Pro instance. Ako želite podržati zvanične developere, posjetite [official_link]vert.sh[/official_link]."
     },
     "credits": {
       "title": "Zasluge",
@@ -286,15 +266,11 @@
     "title": "Politika privatnosti",
     "summary": {
       "title": "Sažetak",
-      "description": "VERT Pro-ova politika privatnosti je vrlo jednostavna: ne prikupljamo niti pohranjujemo ikakve podatke o vama. Ne koristimo kolačiće ni trackere, analitika je potpuno privatna, a konverzije (osim videa) rade lokalno. Video se briše nakon preuzimanja ili nakon sat vremena, osim ako nam ne date dozvolu da ga čuvamo radi rješavanja problema. Koristimo Coolify za hosting i Plausible za anonimnu analitiku. Stripe obrađuje donacije i može prikupiti podatke za prevenciju prevara.<br/><br/>Ovo vrijedi za zvaničnu instancu [vert_link]vert.sh[/vert_link]; treće strane mogu raditi drugačije."
+      "description": "VERT Pro-ova politika privatnosti je vrlo jednostavna: ne prikupljamo niti pohranjujemo ikakve podatke o vama. Ne koristimo kolačiće ni trackere, analitika je potpuno privatna, a konverzije (osim videa) rade lokalno. Video se briše nakon preuzimanja ili nakon sat vremena, osim ako nam ne date dozvolu da ga čuvamo radi rješavanja problema. Koristimo Coolify za hosting i Plausible za anonimnu analitiku.<br/><br/>Ovo vrijedi za zvaničnu instancu [vert_link]vert.sh[/vert_link]; treće strane mogu raditi drugačije."
     },
     "conversions": {
       "title": "Konverzije",
       "description": "Većina konverzija (slike, dokumenti, audio) se obavlja lokalno putem WebAssembly alata (ImageMagick, Pandoc, FFmpeg). Vaše datoteke ne napuštaju uređaj.<br/><br/>Video konverzije se obavljaju na našim serverima jer zahtijevaju više snage. Video se briše nakon preuzimanja ili sat vremena, osim ako nam eksplicitno ne dozvolite duže čuvanje radi otklanjanja grešaka."
-    },
-    "donations": {
-      "title": "Donacije",
-      "description": "Koristimo Stripe na stranici [about_link]o nama[/about_link] za donacije. Stripe može prikupiti određene informacije radi prevencije prevara, opisano u [stripe_link]njihovoj dokumentaciji[/stripe_link]. Eksterni zahtjevi se šalju tek nakon vašeg klika."
     },
     "conversion_errors": {
       "title": "Greške pri konverziji",
