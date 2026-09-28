@@ -26,6 +26,7 @@
 	import { ToastManager } from "$lib/util/toast.svelte.js";
 	import { m } from "$lib/paraglide/messages.js";
 	import { log } from "$lib/util/logger.js";
+	import { initInstallPrompt } from "$lib/util/install";
 
 	let { children } = $props();
 	let enablePlausible = $state(false);
@@ -72,6 +73,7 @@
 		const now = new Date();
 		isAprilFools = now.getDate() === 1 && now.getMonth() === 3;
 
+		initInstallPrompt();
 		initAnimStores();
 
 		const handleResize = () => {
