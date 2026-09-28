@@ -1,4 +1,5 @@
 import { browser } from "$app/environment";
+import { base } from "$app/paths";
 import { byNative, converters } from "$lib/converters";
 import { error, log } from "$lib/util/logger";
 import { VertFile } from "$lib/types";
@@ -484,7 +485,10 @@ export function link(
 	let result = text;
 
 	tags.forEach((t, i) => {
-		const link = linksArr[i] ?? "#";
+		const rawLink = linksArr[i] ?? "#";
+		const link = rawLink.startsWith("/") && !rawLink.startsWith("//")
+			? `${base}${rawLink}`
+			: rawLink;
 		const target = newTabArr[i]
 			? 'target="_blank" rel="noopener noreferrer"'
 			: "";
