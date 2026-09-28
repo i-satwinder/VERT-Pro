@@ -161,7 +161,7 @@
 		content="With VERT, you can quickly convert any image, video, audio, and document file. No ads, no tracking, open source, and all processing (other than video) is done on your device."
 	/>
 	<meta property="twitter:image" content={featuredImage} />
-	<link rel="manifest" href="/manifest.json" />
+	<link rel="manifest" href="%sveltekit.assets%/manifest.json" />
 	<link rel="canonical" href="https://vert.sh/" />
 	{#if enablePlausible}
 		<script
