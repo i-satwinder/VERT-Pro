@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf441748-0ec5-4c8a-b3e5-11301ee3f0bd" alt="VERT's logo" height="100">
+  <img src="https://github.com/user-attachments/assets/bf441748-0ec5-4c8a-b3e5-11301ee3f0bd" alt="VERT Pro's logo" height="100">
 </p>
 <h1 align="center">⚡ vert-pro</h1>
 
@@ -18,7 +18,7 @@ While the original VERT delivers incredible format-to-format conversion, **vert-
 
 |                     Upload page                      |                     Conversion page                      |
 | :--------------------------------------------------: | :------------------------------------------------------: |
-| ![VERT upload page](docs/images/screenshot-home.png) | ![VERT convert page](docs/images/screenshot-convert.png) |
+| ![VERT Pro upload page](docs/images/screenshot-home.png) | ![VERT Pro convert page](docs/images/screenshot-convert.png) |
 
 ## 🧠 Architecture: Why It's Different
 

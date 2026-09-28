@@ -1,5 +1,5 @@
 {
-  description = "VERT.sh";
+  description = "VERT Pro";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";

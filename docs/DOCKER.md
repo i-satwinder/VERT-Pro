@@ -1,6 +1,6 @@
 ## Using Docker
 
-This file covers how to run VERT under a Docker container.
+This file covers how to run VERT Pro under a Docker container.
 
 - [Manually building the image](#manually-building-the-image)
 - [Using an image from the GitHub Container Registry](#using-an-image-from-the-github-container-registry)

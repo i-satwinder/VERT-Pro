@@ -9,7 +9,7 @@
     "toggle_theme": "Promijeni temu"
   },
   "footer": {
-    "copyright": "© {year} VERT.",
+    "copyright": "© {year} VERT Pro.",
     "source_code": "Izvorni kod",
     "discord_server": "Discord server",
     "privacy_policy": "Politika privatnosti"
@@ -22,7 +22,7 @@
       "convert": "konvertujete"
     },
     "cards": {
-      "title": "VERT podržava...",
+      "title": "VERT Pro podržava...",
       "images": "Slike",
       "audio": "Audio",
       "documents": "Dokumente",
@@ -141,7 +141,7 @@
       "advanced_settings": "Napredne postavke",
       "filename_format": "Format imena datoteke",
       "filename_description": "Ovo određuje ime datoteke pri preuzimanju, <b>bez ekstenzije</b>. Možete koristiti sljedeće šablone: <b>%name%</b> originalno ime, <b>%extension%</b> originalna ekstenzija, <b>%date%</b> datum konverzije.",
-      "placeholder": "VERT_%name%",
+      "placeholder": "VERT Pro_%name%",
       "default_format": "Podrazumijevani format konverzije",
       "default_format_enable": "Uključi",
       "default_format_disable": "Isključi",
@@ -167,7 +167,7 @@
       "loading": "učitavam...",
       "available": "dostupan, commit id {commitId}",
       "unavailable": "nedostupan (da li je URL tačan?)",
-      "description": "<code>vertd</code> je serverski omotač za FFmpeg, omogućava brzo konvertovanje videa koristeći vaš GPU putem VERT web interfejsa.",
+      "description": "<code>vertd</code> je serverski omotač za FFmpeg, omogućava brzo konvertovanje videa koristeći vaš GPU putem VERT Pro web interfejsa.",
       "hosting_info": "Imamo javnu instancu radi praktičnosti, ali možete lako hostati svoju. Preuzmite server [vertd_link]ovdje[/vertd_link].",
       "instance": "Instanca",
       "url_placeholder": "Primjer: http://localhost:24153",
@@ -203,7 +203,7 @@
       "cache_cleared": "Cache uspješno obrisan!",
       "cache_clear_error": "Neuspješno brisanje cachea.",
       "site_data_title": "Upravljanje podacima stranice",
-      "site_data_description": "Obriši sve podatke stranice uključujući postavke i cache i resetuj VERT.",
+      "site_data_description": "Obriši sve podatke stranice uključujući postavke i cache i resetuj VERT Pro.",
       "clear_all_data": "Obriši sve podatke",
       "clear_all_data_confirm_title": "Obrisati sve podatke stranice?",
       "clear_all_data_confirm": "Resetovat će sve postavke i cache i osvježiti stranicu. Ova akcija je nepovratna.",
@@ -213,13 +213,13 @@
     },
     "language": {
       "title": "Jezik",
-      "description": "Odaberite željeni jezik VERT interfejsa."
+      "description": "Odaberite željeni jezik VERT Pro interfejsa."
     }
   },
   "about": {
     "title": "O nama",
     "why": {
-      "title": "Zašto VERT?",
+      "title": "Zašto VERT Pro?",
       "description": "<b>Konverteri datoteka su nas uvijek razočaravali.</b> Ružni su, puni reklama i, najvažnije, spori. Odlučili smo to riješiti jednom zauvijek.<br/><br/>Sve ne-video datoteke se obrađuju lokalno, što znači da nema slanja datoteka na server — i mi nikad ne vidimo vaše podatke.<br/><br/>Video se otprema na naš brzi RTX 4000 Ada server. Vaši video snimci ostaju tamo sat vremena ako ih ne konvertujete. Ako ih konvertujete, ostaju sat ili dok ih preuzmete, nakon čega se brišu."
     },
     "sponsors": {
@@ -234,8 +234,8 @@
       "email": "Email"
     },
     "donate": {
-      "title": "Donirajte VERT-u",
-      "description": "Vaša podrška pomaže da nastavimo razvijati i unapređivati VERT.",
+      "title": "Donirajte VERT Pro-u",
+      "description": "Vaša podrška pomaže da nastavimo razvijati i unapređivati VERT Pro.",
       "one_time": "Jednokratno",
       "monthly": "Mjesečno",
       "custom": "Prilagođeno",
@@ -245,19 +245,19 @@
       "payment_failed": "Plaćanje nije uspjelo: {message}{period}. Novac nije skinut s vašeg računa.",
       "donation_error": "Došlo je do greške pri obradi donacije. Pokušajte ponovo kasnije.",
       "payment_error": "Greška pri dohvaćanju podataka o plaćanju. Pokušajte ponovo.",
-      "donation_notice_official": "Donacije ovdje idu za zvaničnu VERT instancu (vert.sh) i pomažu razvoj projekta.",
-      "donation_notice_unofficial": "Donacije ovdje idu operateru ove VERT instance. Ako želite podržati zvanične developere, posjetite [official_link]vert.sh[/official_link]."
+      "donation_notice_official": "Donacije ovdje idu za zvaničnu VERT Pro instancu (vert.sh) i pomažu razvoj projekta.",
+      "donation_notice_unofficial": "Donacije ovdje idu operateru ove VERT Pro instance. Ako želite podržati zvanične developere, posjetite [official_link]vert.sh[/official_link]."
     },
     "credits": {
       "title": "Zasluge",
       "contact_team": "Ako želite kontaktirati razvojni tim, koristite email iz kartice \"Resursi\".",
       "notable_contributors": "Istaknuti doprinosioci",
-      "notable_description": "Želimo zahvaliti ovim osobama na velikim doprinosima VERT-u.",
+      "notable_description": "Želimo zahvaliti ovim osobama na velikim doprinosima VERT Pro-u.",
       "github_contributors": "GitHub doprinosioci",
       "github_description": "Veliko hvala svima! [github_link]Želite pomoći i vi?[/github_link]",
       "no_contributors": "Izgleda da još niko nije doprinio... [contribute_link]budite prvi![/contribute_link]",
       "libraries": "Biblioteke",
-      "libraries_description": "Veliko hvala FFmpeg-u (audio, video), ImageMagick-u (slike) i Pandoc-u (dokumenti). VERT se na njima temelji.",
+      "libraries_description": "Veliko hvala FFmpeg-u (audio, video), ImageMagick-u (slike) i Pandoc-u (dokumenti). VERT Pro se na njima temelji.",
       "roles": {
         "lead_developer": "Glavni developer; backend konverzije, UI implementacija",
         "developer": "Developer; UI implementacija",
@@ -286,7 +286,7 @@
     "title": "Politika privatnosti",
     "summary": {
       "title": "Sažetak",
-      "description": "VERT-ova politika privatnosti je vrlo jednostavna: ne prikupljamo niti pohranjujemo ikakve podatke o vama. Ne koristimo kolačiće ni trackere, analitika je potpuno privatna, a konverzije (osim videa) rade lokalno. Video se briše nakon preuzimanja ili nakon sat vremena, osim ako nam ne date dozvolu da ga čuvamo radi rješavanja problema. Koristimo Coolify za hosting i Plausible za anonimnu analitiku. Stripe obrađuje donacije i može prikupiti podatke za prevenciju prevara.<br/><br/>Ovo vrijedi za zvaničnu instancu [vert_link]vert.sh[/vert_link]; treće strane mogu raditi drugačije."
+      "description": "VERT Pro-ova politika privatnosti je vrlo jednostavna: ne prikupljamo niti pohranjujemo ikakve podatke o vama. Ne koristimo kolačiće ni trackere, analitika je potpuno privatna, a konverzije (osim videa) rade lokalno. Video se briše nakon preuzimanja ili nakon sat vremena, osim ako nam ne date dozvolu da ga čuvamo radi rješavanja problema. Koristimo Coolify za hosting i Plausible za anonimnu analitiku. Stripe obrađuje donacije i može prikupiti podatke za prevenciju prevara.<br/><br/>Ovo vrijedi za zvaničnu instancu [vert_link]vert.sh[/vert_link]; treće strane mogu raditi drugačije."
     },
     "conversions": {
       "title": "Konverzije",

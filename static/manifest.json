@@ -1,6 +1,6 @@
 {
-	"name": "VERT",
-	"short_name": "VERT",
+	"name": "VERT Pro",
+	"short_name": "VERT Pro",
 	"description": "The file converter you'll love",
 	"start_url": "./",
 	"display": "standalone",

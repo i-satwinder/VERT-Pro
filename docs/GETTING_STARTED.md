@@ -1,6 +1,6 @@
 ## Getting Started
 
-This file covers how to get started with VERT.
+This file covers how to get started with VERT Pro.
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -35,7 +35,7 @@ cp .env.example .env
 
 ### Environment variables
 
-VERT uses the following environment variables (all prefixed with `PUB_`). Set them in your `.env` file during development, or pass them as Docker build args for production.
+VERT Pro uses the following environment variables (all prefixed with `PUB_`). Set them in your `.env` file during development, or pass them as Docker build args for production.
 
 | Variable | Description | Default |
 |---|---|---|
@@ -56,7 +56,7 @@ This will start a development server. Open your browser and navigate to `http://
 
 ### PDF Tools
 
-VERT includes built-in PDF utilities accessible at `/tools` (`http://localhost:5173/tools` during development). These tools run entirely on-device — no files are uploaded to any server.
+VERT Pro includes built-in PDF utilities accessible at `/tools` (`http://localhost:5173/tools` during development). These tools run entirely on-device — no files are uploaded to any server.
 
 Available tools:
 

@@ -1,6 +1,6 @@
-# Contributing to VERT
+# Contributing to VERT Pro
 
-Thank you for taking your time to contribute to the `VERT-sh/VERT` repository! VERT uses many other FOSS projects and would not exist without the open source community <3
+Thank you for taking your time to contribute to the `VERT-sh/VERT` repository! VERT Pro uses many other FOSS projects and would not exist without the open source community <3
 
 Below is our guidelines for contributing to this repository, but also note our general contributing guides found here: [CONTRIBUTING.md](https://github.com/VERT-sh/.github/blob/main/profile/CONTRIBUTING.md)
 
@@ -36,7 +36,7 @@ Please follow these conventions when contributing:
 
 ### Issues / bugs
 
-To report an issue, either join the VERT Discord server above and open a forum post in the server, or open a GitHub issue on the repository.
+To report an issue, either join the VERT Pro Discord server above and open a forum post in the server, or open a GitHub issue on the repository.
 
 Please provide any relevant details, reproduction steps, and screenshots for us to replicate your issue. You may also provide the original file if you are comfortable to do so, publicly or privately (to our team through DMs) - see the general [CONTRIBUTING.md](https://github.com/VERT-sh/.github/blob/main/profile/CONTRIBUTING.md) to contact us.
 

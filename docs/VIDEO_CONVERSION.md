@@ -10,5 +10,5 @@ We host an official instance of [`vertd`](https://github.com/VERT-sh/vertd) so y
 
 - Download the latest release of `vertd` for your machine [here](https://github.com/VERT-sh/vertd/releases)
 - Run the server
-- Connect the VERT UI to your local `vertd` instance by entering its IP & port
-    - By default, `vertd` runs a HTTP server on port `24153`, so you would put `http://localhost:24153` in the "Instance URL" setting found in VERT's settings (assuming you are running it on your own PC)
+- Connect the VERT Pro UI to your local `vertd` instance by entering its IP & port
+    - By default, `vertd` runs a HTTP server on port `24153`, so you would put `http://localhost:24153` in the "Instance URL" setting found in VERT Pro's settings (assuming you are running it on your own PC)
