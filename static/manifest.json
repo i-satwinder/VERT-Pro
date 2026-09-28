@@ -2,7 +2,7 @@
 	"name": "VERT",
 	"short_name": "VERT",
 	"description": "The file converter you'll love",
-	"start_url": "/",
+	"start_url": "./",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#F2ABEE",

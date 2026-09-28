@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { browser } from "$app/environment";
 	import { page } from "$app/state";
+	import { base } from "$app/paths";
 	import { duration, fade } from "$lib/util/animation";
 	import {
 		effects,
@@ -192,7 +193,7 @@
 		{/if}
 		<a
 			class="w-28 h-full bg-accent rounded-xl items-center justify-center hidden md:flex"
-			href="/"
+			href="{base}/"
 		>
 			<div class="h-5 w-full">
 				<Logo />
