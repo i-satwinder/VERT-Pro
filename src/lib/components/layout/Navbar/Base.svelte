@@ -11,7 +11,6 @@
 	} from "$lib/store/index.svelte";
 	import clsx from "clsx";
 	import {
-		InfoIcon,
 		MoonIcon,
 		RefreshCw,
 		SettingsIcon,
@@ -61,12 +60,6 @@
 			url: "/settings/",
 			activeMatch: (pathname) => pathname.startsWith("/settings"),
 			icon: SettingsIcon,
-		},
-		{
-			name: m["navbar.about"](),
-			url: "/about/",
-			activeMatch: (pathname) => pathname.startsWith("/about"),
-			icon: InfoIcon,
 		},
 	]);
 

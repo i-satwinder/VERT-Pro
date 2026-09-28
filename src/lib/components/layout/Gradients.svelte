@@ -32,11 +32,6 @@
 			at: 25,
 		},
 		{
-			matcher: (path) => path === "/about/",
-			color: "var(--bg-gradient-from)",
-			at: 25,
-		},
-		{
 			matcher: (path) => path === "/privacy/",
 			color: "var(--bg-gradient-red-from)",
 			at: 100,
