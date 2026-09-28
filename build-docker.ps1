@@ -3,7 +3,7 @@
     Builds and pushes the VERT-Pro Docker image to GitHub Container Registry.
 
 .DESCRIPTION
-    Builds the Docker image locally and pushes it to ghcr.io/i-satwinder/VERT-Pro.
+    Builds the Docker image locally and pushes it to ghcr.io/i-satwinder/vert-pro.
     Each run tags the image as both 'latest' and with the current short git SHA.
 
     Prerequisites:
@@ -24,7 +24,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$IMAGE_NAME = "ghcr.io/i-satwinder/VERT-Pro"
+$IMAGE_NAME = "ghcr.io/i-satwinder/vert-pro"
 $SHORT_SHA = (git rev-parse --short HEAD 2>$null).Trim()
 
 if (-not $SHORT_SHA) {
@@ -94,8 +94,8 @@ Write-Host "========================================" -ForegroundColor Cyan
 Write-Host " Push complete!"                         -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""
-Write-Host "  ghcr.io/i-satwinder/VERT-Pro:latest"      -ForegroundColor Yellow
-Write-Host "  ghcr.io/i-satwinder/VERT-Pro:$SHORT_SHA"   -ForegroundColor Yellow
+Write-Host "  ghcr.io/i-satwinder/vert-pro:latest"      -ForegroundColor Yellow
+Write-Host "  ghcr.io/i-satwinder/vert-pro:$SHORT_SHA"   -ForegroundColor Yellow
 Write-Host ""
 Write-Host "Make sure the package is set to Public in:" -ForegroundColor DarkGray
 Write-Host "  https://github.com/i-satwinder/VERT-Pro/pkgs/container/vert-pro" -ForegroundColor DarkGray
