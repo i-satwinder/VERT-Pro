@@ -43,7 +43,7 @@ jobs:
               id: meta
               uses: docker/metadata-action@v5
               with:
-                  images: ghcr.io/i-satwinder/vert-pro
+                  images: ghcr.io/${{ github.repository_owner }}/vert-pro
                   tags: |
                       type=ref,event=branch
                       type=ref,event=pr
